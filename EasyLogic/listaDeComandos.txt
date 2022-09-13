@@ -1,0 +1,10 @@
+
+n1,n2,soma
+
+Digite o numero 1
+n1 = 5
+Digite o numero 2
+n2 = 2
+soma = 7
+Soma = 7
+fim
